@@ -62,7 +62,12 @@ Carrier diversity is a key component to ensure availability.  Establishing servi
 ### **Power Supply**
 All critical network hardware should be connected to different electrical circuits and be backed up by Uninterruptible Power Supply (UPS).  Continuous operation during power outages is further ensured by backup generators
 
-# **Recommended Transition to IPv6**
+## **Recommended Transition to IPv6**
 A transition to IPv6 from IPv4 is recommended to increase network efficiency, security, long term network scalability, and to remain on par with an understood 20–30-year global transition. Since the world IPv6 launch in 2012, peak IPv6 traffic has increased from ~1Gbps to 41Tbps in 2022.  Industry transition to IPv6 is inevitable as IPv4 addresses are reaching exhaustion.  The IPv6 address pool is nearly 85 trillion times larger than the IPv4 address pool which essentially eliminates the need for subnetting, there is increased efficiency in routing capabilities, better quality of service (QoS), native information security framework (IPSec), and plug-and-play configuration with or without DHCP (Stewert & Kinsey, 2021).   
 
 A long-term transition is recommended to mitigate service disruption, hardware and software IPv6 incompatibility, the need for extensive employed training, and mobilization and implementation costs. Transition can be done department by department utilizing pilot programs that target non-critical areas protecting core business operations.  Several strategies can be put in place to ease into the transition phase. 
+
+## **The strategies are as follows:**
+1.	**Dual-Stack Implementation:** This will be the core strategy- run both protocols simultaneously on all devices allowing for a graceful transition.  Devices can communicate with either protocol but IPv6 will be prioritized when possible.  Dual-Stack will add significant overhead to network architecture.
+2.	**Tunneling:** Two IPv6 hosts create an IPv6 tunnel between the hosts through an IPv4 network; several methods exist to facilitate tunneling.  Tunneling can also add significant overhead.
+3.	**Translation:** Like network address translation (NAT), network address translation 64 (NAT 64) uses translation techniques that allow IPv6 enabled devices to communicate with IPv4 enabled devices.

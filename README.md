@@ -71,3 +71,30 @@ A long-term transition is recommended to mitigate service disruption, hardware a
 1.	**Dual-Stack Implementation:** This will be the core strategy- run both protocols simultaneously on all devices allowing for a graceful transition.  Devices can communicate with either protocol but IPv6 will be prioritized when possible.  Dual-Stack will add significant overhead to network architecture.
 2.	**Tunneling:** Two IPv6 hosts create an IPv6 tunnel between the hosts through an IPv4 network; several methods exist to facilitate tunneling.  Tunneling can also add significant overhead.
 3.	**Translation:** Like network address translation (NAT), network address translation 64 (NAT 64) uses translation techniques that allow IPv6 enabled devices to communicate with IPv4 enabled devices.
+
+
+  
+# **References**
+Akamai. (2022, June 6). *10 years since World IPv6 launch.* Akamai Blog. https://www.akamai.com/blog/trends/10-years-since-world-ipv6-launch 
+
+Axigen. (2020, June 26). *How to install a demilitarized zone for your servers.* Axigen. https://www.axigen.com/articles/how-to-install-a-demilitarized-zone-for-your-servers_24.html 
+
+Catchpoint. (n.d.). *Benefits of IPv6.* Catchpoint. https://www.catchpoint.com/benefits-of-ipv6/ipv6-tunnelling  
+
+Check Point Software Technologies Ltd. (n.d.). *What is firewall? High availability (HA) firewall.* Check Point. https://www.checkpoint.com/cyber-hub/network-security/what-is-firewall/high-availability-ha-firewall/  
+
+Cloudflare. (n.d.). *Types of load balancing algorithms.* Cloudflare Learning. https://www.cloudflare.com/learning/performance/types-of-load-balancing-algorithms/ 
+
+Firewall.cx. (n.d.). *Firewall topologies & DMZ zone.* Firewall.cx. https://www.firewall.cx/networking/network-fundamentals/firewall-topologies-dmz-zone.html 
+
+IR. (n.d.). *Navigating the IPv4-IPv6 transition: Essential strategies for success.* IR. https://www.ir.com/guides/navigating-the-ipv4-ipv6-transition-essential-strategies-for-success  
+
+Nygren, E. (2022, June 6). *10 years since World IPv6 launch.* Akamai Blog. https://www.akamai.com/blog/trends/10-years-since-world-ipv6-launch 
+
+Stewart, J. M., & Kinsey, D. (2025). *Network Security, Firewalls, and VPNs.* Jones & Bartlett Learning.  
+
+U.S. Department of Health and Human Services. (2021, August). *HHS policy for the transition to Internet protocol version 6 (IPv6).* HHS.gov. https://www.hhs.gov/web/governance/digital-strategy/it-policy-archive/hhs-policy-transition-internet-protocol-version-6-ipv6.html  
+
+Universitas Sriwijaya. (n.d.). *IPv4 issues.* CCNA Ilkom Unsri.  https://ccna.ilkom.unsri.ac.id/5/course/module7/7.2.1.2/7.2.1.2.html
+
+Wheeler, R. (2024, March 26). *Load balancing best practices.* Kemp Technologies. https://kemptechnologies.com/blog/load-balancing-best-practices  

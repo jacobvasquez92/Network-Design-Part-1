@@ -1,5 +1,5 @@
 # Network Design: Part 1
-This report outlines the goal of ficticious organization, Corporation Tech, to provide on-site and remote support, including services such as malware removal, data recovery, network issue resolution, and hardware/software installation. 
+This report outlines the goal of ficticious organization, AeroSpace Tech, to provide on-site and remote support, including services such as malware removal, data recovery, network issue resolution, and hardware/software installation. 
   
   <img width="998" height="979" alt="image" src="https://github.com/user-attachments/assets/21f307c4-75cf-4a6a-9300-5252a9158b8c" />
   

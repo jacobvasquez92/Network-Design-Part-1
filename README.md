@@ -1,7 +1,7 @@
 # Network Design: Part 1
 This report outlines the goal of ficticious organization, AeroSpace Tech, to provide on-site and remote support, including services such as malware removal, data recovery, network issue resolution, and hardware/software installation. 
   
-  <img width="998" height="979" alt="image" src="https://github.com/user-attachments/assets/21f307c4-75cf-4a6a-9300-5252a9158b8c" />
+<img width="948" height="550" alt="image" src="https://github.com/user-attachments/assets/63514f1a-c3b0-46ed-9087-b2b53aa83fe6" />
   
 Following a review of the company's business goals, a reevaluation of the current network design is necessary to identify enhancements in overall logical network design, redundancy and security measures, and communication protocol upgrades.
 
